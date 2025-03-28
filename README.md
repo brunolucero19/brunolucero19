@@ -7,7 +7,7 @@
 
 <br>
 
-- I'm Bruno Lucero, a 21 y/o student of Systems Engineering at UTN. I really like programming, so apart from university, I decided to start my path in the world of front-end and back-end programming. I am currently taking a FullStack development course, in which I am improving my skills and learning new technologies.
+- I'm Bruno Lucero, a 22 y/o student of Systems Engineering at UTN. I really like programming, so apart from university, I decided to start my path in the world of front-end and back-end programming. I am currently taking a FullStack development course, in which I am improving my skills and learning new technologies.
 
 <br>
 
